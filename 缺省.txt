@@ -1,0 +1,7 @@
+图1：论文《SoK: Training Machine Learning Models over Multiple Sources with Privacy Preservation》中
+
+图9：https://zhuanlan.zhihu.com/p/126396795 “现在我们来看一看基于OT。。。”
+
+图12：https://zhuanlan.zhihu.com/p/237061306  “The GMW Protocol”内容
+
+图13：https://wenku.baidu.com/view/6f8ca4290066f5335a81215f.html
